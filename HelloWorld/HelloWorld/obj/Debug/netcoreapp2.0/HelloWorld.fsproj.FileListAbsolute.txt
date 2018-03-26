@@ -1,0 +1,8 @@
+C:\Users\matth\Documents\GitHub\F-Sharp\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.deps.json
+C:\Users\matth\Documents\GitHub\F-Sharp\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.runtimeconfig.json
+C:\Users\matth\Documents\GitHub\F-Sharp\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\matth\Documents\GitHub\F-Sharp\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.dll
+C:\Users\matth\Documents\GitHub\F-Sharp\HelloWorld\HelloWorld\bin\Debug\netcoreapp2.0\HelloWorld.pdb
+C:\Users\matth\Documents\GitHub\F-Sharp\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.0\HelloWorld.fsprojResolveAssemblyReference.cache
+C:\Users\matth\Documents\GitHub\F-Sharp\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.0\HelloWorld.dll
+C:\Users\matth\Documents\GitHub\F-Sharp\HelloWorld\HelloWorld\obj\Debug\netcoreapp2.0\HelloWorld.pdb
