@@ -1,0 +1,8 @@
+C:\Users\matth\Documents\GitHub\F-Sharp\SampleApp1\SampleApp1\bin\Debug\netcoreapp2.0\SampleApp1.deps.json
+C:\Users\matth\Documents\GitHub\F-Sharp\SampleApp1\SampleApp1\bin\Debug\netcoreapp2.0\SampleApp1.runtimeconfig.json
+C:\Users\matth\Documents\GitHub\F-Sharp\SampleApp1\SampleApp1\bin\Debug\netcoreapp2.0\SampleApp1.runtimeconfig.dev.json
+C:\Users\matth\Documents\GitHub\F-Sharp\SampleApp1\SampleApp1\bin\Debug\netcoreapp2.0\SampleApp1.dll
+C:\Users\matth\Documents\GitHub\F-Sharp\SampleApp1\SampleApp1\bin\Debug\netcoreapp2.0\SampleApp1.pdb
+C:\Users\matth\Documents\GitHub\F-Sharp\SampleApp1\SampleApp1\obj\Debug\netcoreapp2.0\SampleApp1.fsprojResolveAssemblyReference.cache
+C:\Users\matth\Documents\GitHub\F-Sharp\SampleApp1\SampleApp1\obj\Debug\netcoreapp2.0\SampleApp1.dll
+C:\Users\matth\Documents\GitHub\F-Sharp\SampleApp1\SampleApp1\obj\Debug\netcoreapp2.0\SampleApp1.pdb
