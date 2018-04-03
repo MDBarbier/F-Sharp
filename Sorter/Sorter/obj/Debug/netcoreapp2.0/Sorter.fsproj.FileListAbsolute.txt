@@ -1,0 +1,8 @@
+C:\Users\matth\Documents\GitHub\F-Sharp\Sorter\Sorter\bin\Debug\netcoreapp2.0\Sorter.deps.json
+C:\Users\matth\Documents\GitHub\F-Sharp\Sorter\Sorter\bin\Debug\netcoreapp2.0\Sorter.runtimeconfig.json
+C:\Users\matth\Documents\GitHub\F-Sharp\Sorter\Sorter\bin\Debug\netcoreapp2.0\Sorter.runtimeconfig.dev.json
+C:\Users\matth\Documents\GitHub\F-Sharp\Sorter\Sorter\bin\Debug\netcoreapp2.0\Sorter.dll
+C:\Users\matth\Documents\GitHub\F-Sharp\Sorter\Sorter\bin\Debug\netcoreapp2.0\Sorter.pdb
+C:\Users\matth\Documents\GitHub\F-Sharp\Sorter\Sorter\obj\Debug\netcoreapp2.0\Sorter.fsprojResolveAssemblyReference.cache
+C:\Users\matth\Documents\GitHub\F-Sharp\Sorter\Sorter\obj\Debug\netcoreapp2.0\Sorter.dll
+C:\Users\matth\Documents\GitHub\F-Sharp\Sorter\Sorter\obj\Debug\netcoreapp2.0\Sorter.pdb
