@@ -1,0 +1,8 @@
+C:\Users\matth\Documents\GitHub\F-Sharp\DownloadWebpage\DownloadWebpage\bin\Debug\netcoreapp2.0\DownloadWebpage.deps.json
+C:\Users\matth\Documents\GitHub\F-Sharp\DownloadWebpage\DownloadWebpage\bin\Debug\netcoreapp2.0\DownloadWebpage.runtimeconfig.json
+C:\Users\matth\Documents\GitHub\F-Sharp\DownloadWebpage\DownloadWebpage\bin\Debug\netcoreapp2.0\DownloadWebpage.runtimeconfig.dev.json
+C:\Users\matth\Documents\GitHub\F-Sharp\DownloadWebpage\DownloadWebpage\bin\Debug\netcoreapp2.0\DownloadWebpage.dll
+C:\Users\matth\Documents\GitHub\F-Sharp\DownloadWebpage\DownloadWebpage\bin\Debug\netcoreapp2.0\DownloadWebpage.pdb
+C:\Users\matth\Documents\GitHub\F-Sharp\DownloadWebpage\DownloadWebpage\obj\Debug\netcoreapp2.0\DownloadWebpage.fsprojResolveAssemblyReference.cache
+C:\Users\matth\Documents\GitHub\F-Sharp\DownloadWebpage\DownloadWebpage\obj\Debug\netcoreapp2.0\DownloadWebpage.dll
+C:\Users\matth\Documents\GitHub\F-Sharp\DownloadWebpage\DownloadWebpage\obj\Debug\netcoreapp2.0\DownloadWebpage.pdb
